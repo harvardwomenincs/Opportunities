@@ -4,8 +4,8 @@ Compilation of scholarships, funding opportunities, conferences, and other cool 
 
 ### Contributing
 
-To add to this, send a pull request. If you aren't familiar enough with git/Github, just open an
-[Issue](https://github.com/harvardwomenincs/Opportunities/issues). If you deeply prefer
+To add to this, send a pull request. If you don't feel comfortable enough using git/Github, just open an
+[Issue](https://github.com/harvardwomenincs/Opportunities/issues). And if you deeply prefer
 email, you can reach a mod at:
 * lisalu@college.harvard.edu.
 
